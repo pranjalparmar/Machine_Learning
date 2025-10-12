@@ -1,0 +1,711 @@
+CustomerID,Name,Email,Age,Gender,Location,PurchaseHistory,BrowsingBehavior,AmountSpent,MembershipTier
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Laptop,Electronics,3655.07,Bronze
+100017,Rowan Johnson,imtniuu@dooku.com,32,Female,Berlin,Hair Dryer,Beauty & Health,4355.32,Bronze
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Smartwatch,Electronics,4641.24,Silver
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Laptop,Electronics,2700.54,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Perfume,Beauty & Health,4717.14,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Children's Book,Books,1507.64,Gold
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Yoga Mat,Sports,1070.05,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Shoes,Fashion,3614.4,Platinum
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Dumbbells,Sports,209.11,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Non-Fiction,Books,3577.16,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Handbag,Fashion,4595.49,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Headphones,Electronics,2405.42,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Skincare Set,Beauty & Health,4617.7,Silver
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Fitness Tracker,Sports,1499.33,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Tablet,Electronics,4098.88,Bronze
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Toothbrush,Beauty & Health,1128.8,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Camera,Electronics,2090.81,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Chair,Home & Garden,173.29,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Sofa,Home & Garden,4817.3,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Laptop,Electronics,1206.95,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Yoga Mat,Sports,643.18,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Children's Book,Books,4382.29,Silver
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Yoga Mat,Sports,443.28,Silver
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Sofa,Home & Garden,4471.6,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Curtains,Home & Garden,3353.78,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Running Shoes,Sports,950.51,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Gym Bag,Sports,4795.09,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Coffee Table,Home & Garden,3703.75,Platinum
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Fitness Tracker,Sports,4270.18,Silver
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Jacket,Fashion,2949.22,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Science,Books,60.87,Gold
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Dumbbells,Sports,2662.34,Platinum
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Gym Bag,Sports,367.62,Silver
+100035,Dani Brown,zglvvgq@vzrii.com,18,Non-binary,Phoenix,T-shirt,Fashion,4111.63,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Toothbrush,Beauty & Health,2716.21,Bronze
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Mystery,Books,3323.16,Gold
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Skincare Set,Beauty & Health,4384.13,Platinum
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Dress,Fashion,2202.2,Platinum
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Dumbbells,Sports,3159.31,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Science,Books,3603.79,Silver
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Camera,Electronics,3238.32,Gold
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Curtains,Home & Garden,3495.96,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Makeup Kit,Beauty & Health,1488.39,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Yoga Mat,Sports,4811.7,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Toothbrush,Beauty & Health,3532.29,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Gym Bag,Sports,4991.27,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Lamp,Home & Garden,308.89,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Skincare Set,Beauty & Health,449.52,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Chair,Home & Garden,1580.89,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Dress,Fashion,1707.75,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Smartphone,Electronics,3749.12,Silver
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Smartphone,Electronics,3390.1,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Chair,Home & Garden,2258.62,Gold
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Running Shoes,Sports,1971.91,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Curtains,Home & Garden,3058.69,Bronze
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Camera,Electronics,1172.78,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Perfume,Beauty & Health,4887.92,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Yoga Mat,Sports,1912.3,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Science,Books,2531.6,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Skincare Set,Beauty & Health,1731.55,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Coffee Table,Home & Garden,797.5,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Science,Books,3739.19,Gold
+100041,Morgan Hernandez,jcuvyki@jwhru.com,73,Female,Toronto,Shoes,Fashion,902.97,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Fitness Tracker,Sports,3501.55,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Dress,Fashion,97.43,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Tablet,Electronics,2502.09,Silver
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Smartphone,Electronics,1606.44,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Jeans,Fashion,2639.74,Silver
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Shoes,Fashion,1999.85,Bronze
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Jacket,Fashion,3568.37,Gold
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Jacket,Fashion,111.39,Silver
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Coffee Table,Home & Garden,2798.76,Silver
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Smartphone,Electronics,118.82,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Running Shoes,Sports,2479.78,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Sofa,Home & Garden,2304.41,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Yoga Mat,Sports,3289.28,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Lamp,Home & Garden,2333.71,Silver
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Sofa,Home & Garden,4148.64,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Sofa,Home & Garden,2716.95,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Makeup Kit,Beauty & Health,4112.99,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Makeup Kit,Beauty & Health,2388.38,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Toothbrush,Beauty & Health,992.48,Bronze
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Children's Book,Books,278.36,Platinum
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Shoes,Fashion,4353.8,Bronze
+100041,Morgan Hernandez,jcuvyki@jwhru.com,73,Female,Toronto,Fitness Tracker,Sports,3969.58,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Chair,Home & Garden,2616.69,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Perfume,Beauty & Health,4228.71,Silver
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Smartwatch,Electronics,1982.54,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Mystery,Books,2072.21,Silver
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Headphones,Electronics,4249.53,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Fiction,Books,3899.82,Gold
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Dumbbells,Sports,3100.53,Gold
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Smartwatch,Electronics,3458.91,Platinum
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Hair Dryer,Beauty & Health,1070.62,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Dumbbells,Sports,2366.01,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Hair Dryer,Beauty & Health,989.81,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Smartwatch,Electronics,1201.45,Silver
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Fiction,Books,735.42,Silver
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Tablet,Electronics,4312.98,Silver
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Chair,Home & Garden,4855.12,Platinum
+100035,Dani Brown,zglvvgq@vzrii.com,18,Non-binary,Phoenix,Gym Bag,Sports,1076.6,Platinum
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Dress,Fashion,435.26,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Non-Fiction,Books,1410.37,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Shoes,Fashion,1544.1,Silver
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Toothbrush,Beauty & Health,4246.59,Silver
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Coffee Table,Home & Garden,2655.28,Platinum
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Yoga Mat,Sports,86.17,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Hair Dryer,Beauty & Health,2190.61,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Makeup Kit,Beauty & Health,925.89,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Perfume,Beauty & Health,3614.15,Platinum
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Chair,Home & Garden,90.24,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Toothbrush,Beauty & Health,2617.95,Bronze
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Dress,Fashion,4594.46,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Dress,Fashion,4681.05,Platinum
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Headphones,Electronics,4611.03,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Tablet,Electronics,3297.04,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Watch,Fashion,4740.94,Gold
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Biography,Books,907.28,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Yoga Mat,Sports,4298.42,Platinum
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Chair,Home & Garden,4687.87,Gold
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Sofa,Home & Garden,3512.32,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Toothbrush,Beauty & Health,3871.65,Bronze
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Handbag,Fashion,4726.46,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Gym Bag,Sports,4573.59,Silver
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Gym Bag,Sports,3856.2,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Biography,Books,3961.06,Bronze
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Coffee Table,Home & Garden,3244.2,Bronze
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Dumbbells,Sports,952.74,Platinum
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Dumbbells,Sports,4420.18,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Jacket,Fashion,679.43,Bronze
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Laptop,Electronics,1466.27,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Yoga Mat,Sports,3837.17,Silver
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,T-shirt,Fashion,912.63,Platinum
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Shoes,Fashion,4293.43,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Hair Dryer,Beauty & Health,893.86,Platinum
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Shoes,Fashion,1178.21,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Cookware,Home & Garden,4019.95,Platinum
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Hair Dryer,Beauty & Health,4450.26,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Tablet,Electronics,3086.25,Bronze
+100041,Morgan Hernandez,jcuvyki@jwhru.com,73,Female,Toronto,Cookware,Home & Garden,141.7,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Dumbbells,Sports,376.03,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Handbag,Fashion,3269.9,Platinum
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Running Shoes,Sports,3777.18,Gold
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Headphones,Electronics,3445.85,Silver
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Headphones,Electronics,1344.28,Bronze
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Sofa,Home & Garden,3998.83,Bronze
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Yoga Mat,Sports,392.05,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Biography,Books,755.05,Platinum
+100020,Phoenix Jones,cpfngvw@gxosc.com,26,Female,New York,Laptop,Electronics,3345.81,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Sofa,Home & Garden,2363.21,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Toothbrush,Beauty & Health,3079.13,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Toothbrush,Beauty & Health,1936.27,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Dumbbells,Sports,4238.17,Silver
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Laptop,Electronics,2543.67,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Camera,Electronics,3766.03,Platinum
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Cookware,Home & Garden,2244.33,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Tablet,Electronics,3057.1,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Headphones,Electronics,3804.76,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Jacket,Fashion,2438.2,Bronze
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Skincare Set,Beauty & Health,4573.8,Gold
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Science,Books,2161.15,Platinum
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Jacket,Fashion,2187.21,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Gym Bag,Sports,1900.23,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Cookware,Home & Garden,3899.09,Platinum
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Dumbbells,Sports,2053.07,Platinum
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Lamp,Home & Garden,1884.29,Platinum
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Mystery,Books,2597.66,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Sofa,Home & Garden,3609.77,Silver
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Science,Books,3443.57,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Yoga Mat,Sports,2842.72,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Camera,Electronics,3618.88,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Chair,Home & Garden,1108.97,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Skincare Set,Beauty & Health,4606.12,Bronze
+100042,Robin Hernandez,vuersmk@wtjna.com,47,,New York,Curtains,Home & Garden,4083.22,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Handbag,Fashion,2939.26,Gold
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,Smartwatch,Electronics,4558.44,Platinum
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Headphones,Electronics,1090.73,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Skincare Set,Beauty & Health,3309.62,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Smartwatch,Electronics,2485.18,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Lamp,Home & Garden,1610.19,Bronze
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Skincare Set,Beauty & Health,4043.31,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Headphones,Electronics,4968.6,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Perfume,Beauty & Health,651.22,Bronze
+100017,Rowan Johnson,imtniuu@dooku.com,32,Female,Berlin,Lamp,Home & Garden,4738.67,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Tablet,Electronics,1827.2,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Mystery,Books,4378.31,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Biography,Books,2056.94,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Perfume,Beauty & Health,1844.72,Platinum
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Cookware,Home & Garden,3068.0,Gold
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Fitness Tracker,Sports,339.61,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Skincare Set,Beauty & Health,3031.99,Gold
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Curtains,Home & Garden,3214.47,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Chair,Home & Garden,1955.03,Bronze
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,T-shirt,Fashion,4579.6,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Yoga Mat,Sports,1398.63,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Non-Fiction,Books,69.51,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Running Shoes,Sports,3484.44,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Curtains,Home & Garden,1527.56,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Jacket,Fashion,1891.11,Silver
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Yoga Mat,Sports,685.24,Platinum
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Hair Dryer,Beauty & Health,756.85,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Cookware,Home & Garden,2114.93,Gold
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Hair Dryer,Beauty & Health,3236.64,Platinum
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Jacket,Fashion,2061.6,Gold
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Toothbrush,Beauty & Health,901.33,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Children's Book,Books,1432.02,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Hair Dryer,Beauty & Health,2533.35,Silver
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Handbag,Fashion,752.71,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Fitness Tracker,Sports,4047.8,Silver
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Tablet,Electronics,4935.8,Bronze
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Jacket,Fashion,774.98,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Yoga Mat,Sports,1689.73,Silver
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Curtains,Home & Garden,462.32,Silver
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Curtains,Home & Garden,361.22,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Sofa,Home & Garden,1262.55,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Children's Book,Books,1471.19,Platinum
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Fiction,Books,3049.51,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Perfume,Beauty & Health,2482.6,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Cookware,Home & Garden,3236.85,Silver
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Skincare Set,Beauty & Health,2162.89,Gold
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Dumbbells,Sports,4226.04,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Watch,Fashion,3114.45,Gold
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Yoga Mat,Sports,159.81,Gold
+100020,Phoenix Jones,cpfngvw@gxosc.com,26,Female,New York,Yoga Mat,Sports,3564.21,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Dress,Fashion,731.04,Platinum
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Curtains,Home & Garden,3521.89,Gold
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Yoga Mat,Sports,2835.73,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Toothbrush,Beauty & Health,156.8,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Dumbbells,Sports,1579.18,Silver
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Hair Dryer,Beauty & Health,4138.74,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Yoga Mat,Sports,1895.8,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Chair,Home & Garden,3466.0,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Toothbrush,Beauty & Health,2428.01,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Hair Dryer,Beauty & Health,1917.08,Gold
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Handbag,Fashion,1470.38,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Makeup Kit,Beauty & Health,4840.36,Silver
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Gym Bag,Sports,4986.9,Gold
+100043,Bailey Smith,obmzqng@nsijg.com,39,Non-binary,Toronto,Fitness Tracker,Sports,3092.78,Bronze
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Camera,Electronics,943.69,Platinum
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Jacket,Fashion,1718.74,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Perfume,Beauty & Health,4408.1,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Children's Book,Books,377.06,Platinum
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Jeans,Fashion,1668.19,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Yoga Mat,Sports,426.57,Platinum
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Smartphone,Electronics,2197.85,Silver
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Sofa,Home & Garden,1859.95,Gold
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Makeup Kit,Beauty & Health,861.19,Platinum
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Toothbrush,Beauty & Health,3099.16,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Curtains,Home & Garden,1144.43,Bronze
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Perfume,Beauty & Health,3358.03,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Coffee Table,Home & Garden,2008.57,Platinum
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Fiction,Books,646.59,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Cookware,Home & Garden,4722.44,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Watch,Fashion,3689.81,Silver
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Makeup Kit,Beauty & Health,2224.82,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Jacket,Fashion,460.92,Silver
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Toothbrush,Beauty & Health,459.13,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Children's Book,Books,2659.87,Gold
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Skincare Set,Beauty & Health,1663.85,Platinum
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,T-shirt,Fashion,4468.67,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Perfume,Beauty & Health,2590.88,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Fitness Tracker,Sports,3867.55,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Watch,Fashion,2696.78,Silver
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Curtains,Home & Garden,2939.74,Bronze
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,Sofa,Home & Garden,1420.54,Platinum
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Running Shoes,Sports,4104.34,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Skincare Set,Beauty & Health,4944.18,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Toothbrush,Beauty & Health,3340.22,Silver
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Tablet,Electronics,921.22,Gold
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Perfume,Beauty & Health,2942.16,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Shoes,Fashion,3285.67,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Curtains,Home & Garden,365.22,Platinum
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Shoes,Fashion,554.04,Platinum
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Laptop,Electronics,4016.49,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Mystery,Books,4033.58,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Toothbrush,Beauty & Health,3838.94,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Yoga Mat,Sports,3806.4,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Skincare Set,Beauty & Health,3549.18,Silver
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Jeans,Fashion,4728.54,Gold
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Dress,Fashion,4309.42,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Coffee Table,Home & Garden,184.99,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Yoga Mat,Sports,4852.03,Silver
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Headphones,Electronics,134.53,Gold
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Fiction,Books,3721.96,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Makeup Kit,Beauty & Health,1581.72,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Headphones,Electronics,1770.73,Platinum
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Tablet,Electronics,96.58,Gold
+100035,Dani Brown,zglvvgq@vzrii.com,18,Non-binary,Phoenix,Shoes,Fashion,2990.84,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Jacket,Fashion,3321.2,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Sofa,Home & Garden,3122.25,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Non-Fiction,Books,1889.84,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Children's Book,Books,3096.0,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Tablet,Electronics,1405.21,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Fiction,Books,3159.97,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Headphones,Electronics,4649.46,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Perfume,Beauty & Health,4385.86,Silver
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Children's Book,Books,1087.0,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Perfume,Beauty & Health,2492.75,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Laptop,Electronics,1180.75,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Laptop,Electronics,1380.49,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Yoga Mat,Sports,1494.86,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Hair Dryer,Beauty & Health,1039.31,Silver
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Shoes,Fashion,362.5,Bronze
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Shoes,Fashion,1253.59,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Gym Bag,Sports,1821.44,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Smartwatch,Electronics,261.61,Gold
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Lamp,Home & Garden,1631.54,Gold
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Shoes,Fashion,2516.14,Bronze
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Lamp,Home & Garden,2517.13,Bronze
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Sofa,Home & Garden,278.79,Gold
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Biography,Books,4128.12,Platinum
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Mystery,Books,4718.69,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Non-Fiction,Books,26.04,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Chair,Home & Garden,819.12,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,T-shirt,Fashion,3348.72,Gold
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Fiction,Books,2721.88,Gold
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Biography,Books,4439.43,Bronze
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Yoga Mat,Sports,4911.89,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Running Shoes,Sports,784.58,Bronze
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Fiction,Books,1941.53,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Smartwatch,Electronics,28.46,Bronze
+100039,Casey Hernandez,rnpmbbr@wsafj.com,32,,Phoenix,Smartphone,Electronics,3239.54,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Perfume,Beauty & Health,746.47,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Toothbrush,Beauty & Health,3518.9,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Hair Dryer,Beauty & Health,2863.34,Platinum
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Chair,Home & Garden,2973.97,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Sofa,Home & Garden,4716.69,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Jeans,Fashion,1071.33,Gold
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Mystery,Books,2349.5,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Running Shoes,Sports,1402.38,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Camera,Electronics,4911.18,Silver
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Headphones,Electronics,1307.76,Silver
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Makeup Kit,Beauty & Health,2046.89,Silver
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Running Shoes,Sports,493.12,Silver
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Sofa,Home & Garden,4338.11,Gold
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Hair Dryer,Beauty & Health,595.95,Gold
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,T-shirt,Fashion,4889.66,Gold
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Watch,Fashion,4309.27,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Mystery,Books,4918.16,Bronze
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Cookware,Home & Garden,4250.83,Platinum
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Gym Bag,Sports,1767.91,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Non-Fiction,Books,1396.97,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Dress,Fashion,3429.78,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Non-Fiction,Books,1492.85,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Makeup Kit,Beauty & Health,968.49,Gold
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Perfume,Beauty & Health,4780.19,Bronze
+100017,Rowan Johnson,imtniuu@dooku.com,32,Female,Berlin,Mystery,Books,3790.08,Bronze
+100020,Phoenix Jones,cpfngvw@gxosc.com,26,Female,New York,Chair,Home & Garden,3008.21,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Shoes,Fashion,2899.06,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Biography,Books,4935.76,Platinum
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Gym Bag,Sports,2306.36,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Dress,Fashion,4184.33,Bronze
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Children's Book,Books,3696.4,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Chair,Home & Garden,946.61,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Mystery,Books,3915.5,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Shoes,Fashion,1092.55,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Toothbrush,Beauty & Health,3308.57,Gold
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Smartphone,Electronics,4285.61,Gold
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Laptop,Electronics,2334.31,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Hair Dryer,Beauty & Health,563.82,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Perfume,Beauty & Health,3095.5,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Makeup Kit,Beauty & Health,322.31,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Mystery,Books,3646.47,Platinum
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Jacket,Fashion,3524.39,Gold
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Running Shoes,Sports,2763.52,Bronze
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Shoes,Fashion,2489.36,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Lamp,Home & Garden,4377.98,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Gym Bag,Sports,4315.72,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Fitness Tracker,Sports,3088.58,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Science,Books,3372.98,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Biography,Books,1284.66,Gold
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Science,Books,2283.68,Gold
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Perfume,Beauty & Health,451.21,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Makeup Kit,Beauty & Health,2139.54,Silver
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Perfume,Beauty & Health,2901.79,Gold
+100021,Toni Garcia,vnwedxw@kexkp.com,34,Male,Toronto,Toothbrush,Beauty & Health,546.12,Platinum
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Jacket,Fashion,4359.89,Gold
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Hair Dryer,Beauty & Health,171.08,Gold
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Laptop,Electronics,3348.77,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Gym Bag,Sports,1846.24,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Gym Bag,Sports,810.02,Gold
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Headphones,Electronics,4384.73,Bronze
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Jeans,Fashion,38.47,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Makeup Kit,Beauty & Health,4118.04,Gold
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Chair,Home & Garden,303.57,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Running Shoes,Sports,3302.02,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Toothbrush,Beauty & Health,3037.05,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Smartwatch,Electronics,4194.97,Silver
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Tablet,Electronics,4341.46,Gold
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Makeup Kit,Beauty & Health,2007.52,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Smartphone,Electronics,3830.68,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Biography,Books,230.52,Silver
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Jacket,Fashion,3548.04,Platinum
+100041,Morgan Hernandez,jcuvyki@jwhru.com,73,Female,Toronto,Non-Fiction,Books,4034.67,Gold
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Fitness Tracker,Sports,2282.63,Bronze
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Dumbbells,Sports,698.68,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Chair,Home & Garden,1899.69,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Camera,Electronics,2794.1,Platinum
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Smartwatch,Electronics,4218.51,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Yoga Mat,Sports,241.89,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Watch,Fashion,3320.78,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Watch,Fashion,4393.32,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Jeans,Fashion,2347.46,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Handbag,Fashion,1018.37,Bronze
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Running Shoes,Sports,2256.63,Bronze
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Gym Bag,Sports,1545.35,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Lamp,Home & Garden,2707.53,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Dress,Fashion,4190.89,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Shoes,Fashion,483.49,Silver
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Jeans,Fashion,4631.06,Silver
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Children's Book,Books,4231.04,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Handbag,Fashion,3827.86,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Handbag,Fashion,855.65,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Chair,Home & Garden,4316.64,Gold
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Shoes,Fashion,818.03,Gold
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Camera,Electronics,2156.01,Gold
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Smartwatch,Electronics,1126.94,Bronze
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Shoes,Fashion,470.57,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Camera,Electronics,3645.55,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Fiction,Books,2490.31,Gold
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Handbag,Fashion,4263.11,Gold
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Dumbbells,Sports,1615.92,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Lamp,Home & Garden,4221.81,Bronze
+100048,Sage Garcia,rmxbhhw@uepfk.com,50,Male,Houston,Cookware,Home & Garden,342.52,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Shoes,Fashion,2151.0,Gold
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Camera,Electronics,1612.62,Gold
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Jacket,Fashion,343.14,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Children's Book,Books,4893.03,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Headphones,Electronics,1313.17,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,T-shirt,Fashion,2559.1,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Children's Book,Books,3692.28,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Laptop,Electronics,4807.64,Silver
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Fiction,Books,2783.49,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Toothbrush,Beauty & Health,759.64,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Curtains,Home & Garden,3790.62,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Hair Dryer,Beauty & Health,1199.49,Gold
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Tablet,Electronics,289.41,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Sofa,Home & Garden,1071.16,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Lamp,Home & Garden,4408.68,Platinum
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Dumbbells,Sports,4841.07,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Non-Fiction,Books,4733.45,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Cookware,Home & Garden,1501.26,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Fitness Tracker,Sports,3384.79,Silver
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Headphones,Electronics,3588.63,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Perfume,Beauty & Health,1040.06,Silver
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Headphones,Electronics,4255.18,Platinum
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Fiction,Books,951.59,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Headphones,Electronics,4359.56,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,T-shirt,Fashion,2320.76,Gold
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Shoes,Fashion,4373.71,Silver
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Makeup Kit,Beauty & Health,4513.2,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Camera,Electronics,383.84,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Running Shoes,Sports,4057.85,Gold
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Tablet,Electronics,2526.35,Bronze
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Cookware,Home & Garden,1989.84,Platinum
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Dumbbells,Sports,4544.48,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Fitness Tracker,Sports,4799.09,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Gym Bag,Sports,763.76,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Makeup Kit,Beauty & Health,4403.34,Bronze
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Chair,Home & Garden,4589.36,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Jeans,Fashion,2651.02,Platinum
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Biography,Books,4396.25,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Laptop,Electronics,1135.03,Bronze
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Running Shoes,Sports,3991.2,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Yoga Mat,Sports,3462.82,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Toothbrush,Beauty & Health,1668.1,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Toothbrush,Beauty & Health,1895.29,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Jeans,Fashion,1190.09,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Watch,Fashion,4835.71,Bronze
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Coffee Table,Home & Garden,2667.47,Bronze
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Perfume,Beauty & Health,4274.98,Gold
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Makeup Kit,Beauty & Health,1069.05,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Children's Book,Books,3464.96,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Tablet,Electronics,3575.52,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Perfume,Beauty & Health,3143.05,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Mystery,Books,3093.95,Platinum
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Camera,Electronics,3403.7,Platinum
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Non-Fiction,Books,1702.88,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Jacket,Fashion,3042.16,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Sofa,Home & Garden,2603.73,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Lamp,Home & Garden,3844.42,Platinum
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Coffee Table,Home & Garden,3580.38,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Science,Books,2105.11,Silver
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Dumbbells,Sports,1060.61,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Non-Fiction,Books,1187.22,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Fiction,Books,3596.79,Silver
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Dumbbells,Sports,3047.54,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Gym Bag,Sports,1401.88,Bronze
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Lamp,Home & Garden,4066.83,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Curtains,Home & Garden,2928.63,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Lamp,Home & Garden,3042.25,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Smartwatch,Electronics,4151.76,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Skincare Set,Beauty & Health,841.58,Silver
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Biography,Books,3535.26,Bronze
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,T-shirt,Fashion,556.38,Platinum
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Lamp,Home & Garden,1526.15,Platinum
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Watch,Fashion,4546.68,Bronze
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Biography,Books,1669.82,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Hair Dryer,Beauty & Health,768.32,Bronze
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,Coffee Table,Home & Garden,551.93,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Jacket,Fashion,1587.89,Silver
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Curtains,Home & Garden,4917.66,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Cookware,Home & Garden,2614.49,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Tablet,Electronics,3880.24,Bronze
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Curtains,Home & Garden,985.81,Gold
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Hair Dryer,Beauty & Health,4297.46,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Tablet,Electronics,4051.9,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,T-shirt,Fashion,735.55,Silver
+100011,Kris Hernandez,erxwzdl@npgsl.com,46,Non-binary,London,Hair Dryer,Beauty & Health,4542.44,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Smartphone,Electronics,700.75,Bronze
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,Headphones,Electronics,4636.94,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,T-shirt,Fashion,902.99,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Running Shoes,Sports,2459.56,Platinum
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Biography,Books,980.66,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Tablet,Electronics,2937.74,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Camera,Electronics,2493.94,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Toothbrush,Beauty & Health,1108.09,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Watch,Fashion,1229.39,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Smartphone,Electronics,2571.29,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Dress,Fashion,3150.7,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Perfume,Beauty & Health,3394.36,Platinum
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Hair Dryer,Beauty & Health,3471.03,Silver
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Watch,Fashion,4447.38,Bronze
+100013,Taylor Hernandez,yipnjfk@lolld.com,36,Male,Toronto,Perfume,Beauty & Health,3825.46,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Skincare Set,Beauty & Health,598.95,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Science,Books,1277.34,Platinum
+100017,Rowan Johnson,imtniuu@dooku.com,32,Female,Berlin,Makeup Kit,Beauty & Health,3587.85,Bronze
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Toothbrush,Beauty & Health,2575.36,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Yoga Mat,Sports,2533.78,Silver
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Curtains,Home & Garden,4572.15,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Non-Fiction,Books,4735.1,Silver
+100039,Casey Hernandez,rnpmbbr@wsafj.com,32,,Phoenix,Jacket,Fashion,2282.28,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Toothbrush,Beauty & Health,936.25,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Fiction,Books,4298.52,Silver
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Skincare Set,Beauty & Health,2902.93,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Non-Fiction,Books,1415.63,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Watch,Fashion,600.47,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Chair,Home & Garden,3076.05,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Mystery,Books,31.98,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Coffee Table,Home & Garden,1483.57,Gold
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Dress,Fashion,693.48,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Skincare Set,Beauty & Health,911.98,Bronze
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Camera,Electronics,1521.2,Platinum
+100035,Dani Brown,zglvvgq@vzrii.com,18,Non-binary,Phoenix,Chair,Home & Garden,3405.11,Platinum
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Dress,Fashion,4951.24,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Shoes,Fashion,2570.48,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Skincare Set,Beauty & Health,3541.27,Gold
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Chair,Home & Garden,3674.51,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Children's Book,Books,2593.35,Silver
+100039,Casey Hernandez,rnpmbbr@wsafj.com,32,,Phoenix,Makeup Kit,Beauty & Health,624.97,Silver
+100023,Toni Smith,otysxfh@zabgw.com,66,Female,London,Curtains,Home & Garden,3527.2,Silver
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Shoes,Fashion,1469.03,Silver
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Dumbbells,Sports,1574.98,Silver
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Smartphone,Electronics,235.75,Gold
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Coffee Table,Home & Garden,1577.0,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Toothbrush,Beauty & Health,4944.65,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,T-shirt,Fashion,328.57,Gold
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Jeans,Fashion,1394.69,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Science,Books,3560.32,Silver
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Running Shoes,Sports,2217.01,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Skincare Set,Beauty & Health,907.29,Silver
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Smartwatch,Electronics,2233.38,Bronze
+100025,Jane Garcia,mmghilg@wvwqz.com,30,Female,Houston,Watch,Fashion,2001.98,Platinum
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Biography,Books,378.07,Platinum
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Sofa,Home & Garden,1993.95,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Gym Bag,Sports,1050.69,Bronze
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Dumbbells,Sports,485.39,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Dumbbells,Sports,4529.31,Gold
+100039,Casey Hernandez,rnpmbbr@wsafj.com,32,,Phoenix,Lamp,Home & Garden,4629.93,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Perfume,Beauty & Health,3395.69,Silver
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Hair Dryer,Beauty & Health,1757.85,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Toothbrush,Beauty & Health,2118.49,Silver
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Sofa,Home & Garden,3003.55,Gold
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Fitness Tracker,Sports,3797.97,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Dumbbells,Sports,4585.28,Bronze
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Toothbrush,Beauty & Health,3412.67,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Shoes,Fashion,2255.98,Gold
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Camera,Electronics,3669.68,Gold
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Science,Books,2226.56,Bronze
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Hair Dryer,Beauty & Health,2631.93,Silver
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Dumbbells,Sports,707.26,Silver
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Chair,Home & Garden,4167.5,Gold
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,T-shirt,Fashion,2458.07,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Biography,Books,530.55,Bronze
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Fitness Tracker,Sports,2766.05,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Fitness Tracker,Sports,3761.32,Gold
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Headphones,Electronics,3038.36,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Makeup Kit,Beauty & Health,2048.99,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Fitness Tracker,Sports,88.85,Silver
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Handbag,Fashion,2307.55,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Perfume,Beauty & Health,4659.62,Silver
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Dress,Fashion,3342.86,Platinum
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Smartwatch,Electronics,1707.02,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Running Shoes,Sports,3610.29,Bronze
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Cookware,Home & Garden,1960.23,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Cookware,Home & Garden,1042.09,Silver
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Watch,Fashion,1818.96,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Headphones,Electronics,4053.56,Platinum
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Perfume,Beauty & Health,4781.87,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Chair,Home & Garden,3107.92,Silver
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Gym Bag,Sports,1518.01,Bronze
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Perfume,Beauty & Health,1795.3,Silver
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Perfume,Beauty & Health,4384.73,Silver
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Mystery,Books,2657.49,Gold
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,T-shirt,Fashion,1226.38,Silver
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Skincare Set,Beauty & Health,4443.77,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Lamp,Home & Garden,4633.7,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Handbag,Fashion,4149.43,Platinum
+100029,Phoenix Brown,xqidmzf@azjvb.com,35,Female,New York,Perfume,Beauty & Health,2909.5,Platinum
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Gym Bag,Sports,693.75,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Coffee Table,Home & Garden,3100.44,Gold
+100035,Dani Brown,zglvvgq@vzrii.com,18,Non-binary,Phoenix,Hair Dryer,Beauty & Health,1580.42,Platinum
+100010,Drew Jones,zriftbd@rrcra.com,58,Male,Sydney,Jeans,Fashion,3308.03,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Perfume,Beauty & Health,1535.96,Platinum
+100032,Leslie Hernandez,yfdquqf@hjdfb.com,69,Male,Los Angeles,Lamp,Home & Garden,4674.95,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Curtains,Home & Garden,554.53,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Chair,Home & Garden,1381.36,Gold
+100037,Jessie Garcia,gcwndnb@nnxcl.com,62,Female,Chicago,Mystery,Books,869.12,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Fiction,Books,1843.62,Platinum
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Dress,Fashion,796.93,Gold
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Smartwatch,Electronics,71.34,Silver
+100004,Reese Hernandez,mmrkwea@prbmg.com,40,Female,Sydney,Curtains,Home & Garden,3112.47,Bronze
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Headphones,Electronics,2603.34,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Shoes,Fashion,1231.14,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Hair Dryer,Beauty & Health,1431.91,Bronze
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Dress,Fashion,1146.73,Silver
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Dumbbells,Sports,184.86,Platinum
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Jeans,Fashion,4774.05,Platinum
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Dumbbells,Sports,3568.08,Platinum
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Fiction,Books,679.24,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Smartwatch,Electronics,2453.5,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Curtains,Home & Garden,4635.05,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Curtains,Home & Garden,2676.96,Gold
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Smartphone,Electronics,904.1,Bronze
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,T-shirt,Fashion,333.15,Bronze
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Watch,Fashion,2671.96,Silver
+100038,Bailey Martinez,llubjjn@iwrbd.com,63,Non-binary,New York,Jacket,Fashion,689.47,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Skincare Set,Beauty & Health,4147.88,Silver
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Handbag,Fashion,4815.42,Bronze
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Laptop,Electronics,4955.57,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Headphones,Electronics,1098.76,Silver
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Running Shoes,Sports,1425.78,Bronze
+100000,Riley Hernandez,domouob@sydmm.com,59,Male,London,Fiction,Books,1737.32,Platinum
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Curtains,Home & Garden,4362.08,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Running Shoes,Sports,179.45,Silver
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Chair,Home & Garden,3115.18,Silver
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Dumbbells,Sports,4445.49,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Skincare Set,Beauty & Health,2584.61,Silver
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Running Shoes,Sports,2778.93,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Smartphone,Electronics,4617.4,Platinum
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Hair Dryer,Beauty & Health,2972.43,Bronze
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Chair,Home & Garden,1493.13,Gold
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Lamp,Home & Garden,2402.21,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Fiction,Books,3338.53,Platinum
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Lamp,Home & Garden,2197.84,Silver
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Headphones,Electronics,2473.78,Platinum
+100016,Taylor Garcia,zzgymct@rkrvt.com,40,Female,London,Dumbbells,Sports,4089.01,Gold
+100001,Robin Davis,anpdlap@xpmdy.com,59,,Los Angeles,Camera,Electronics,2562.95,Gold
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,T-shirt,Fashion,4923.83,Bronze
+100044,Blake Hernandez,krpcror@aehto.com,33,Male,London,Laptop,Electronics,2335.52,Gold
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Laptop,Electronics,1170.46,Bronze
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Skincare Set,Beauty & Health,2484.5,Platinum
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Skincare Set,Beauty & Health,869.62,Silver
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Perfume,Beauty & Health,4294.36,Gold
+100046,Casey Miller,kxbezgn@tpcnv.com,53,Non-binary,Toronto,Mystery,Books,3722.62,Silver
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Dumbbells,Sports,2512.5,Bronze
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,Dumbbells,Sports,4481.13,Gold
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Smartwatch,Electronics,3528.81,Platinum
+100017,Rowan Johnson,imtniuu@dooku.com,32,Female,Berlin,Fiction,Books,3871.96,Bronze
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Toothbrush,Beauty & Health,1544.63,Silver
+100040,River Miller,uewpbfu@vkyke.com,23,Female,Sydney,Watch,Fashion,2308.75,Silver
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Children's Book,Books,2833.19,Bronze
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Tablet,Electronics,4895.49,Bronze
+100036,Avery Miller,fkwdonm@alpsz.com,61,Male,Chicago,Curtains,Home & Garden,1667.05,Platinum
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Science,Books,4331.65,Platinum
+100033,Marley Hernandez,qvcaudk@qkuhg.com,74,Male,Phoenix,Makeup Kit,Beauty & Health,4450.87,Bronze
+100039,Casey Hernandez,rnpmbbr@wsafj.com,32,,Phoenix,Toothbrush,Beauty & Health,4108.89,Silver
+100018,Drew Martinez,irlkxbj@maixy.com,45,Female,Houston,Skincare Set,Beauty & Health,2187.96,Bronze
+100003,Ash Garcia,uyqtudp@ncqpu.com,73,Non-binary,Houston,Children's Book,Books,126.65,Silver
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Gym Bag,Sports,1183.02,Bronze
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Makeup Kit,Beauty & Health,4846.41,Bronze
+100012,Jamie Jones,kpnqyce@mxafx.com,26,,Los Angeles,Running Shoes,Sports,637.57,Silver
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Biography,Books,2088.58,Platinum
+100014,Toni Jones,nspeuzs@vxips.com,75,Male,Los Angeles,Fitness Tracker,Sports,3175.48,Bronze
+100027,Rowan Jones,dqynvpl@vctnm.com,62,,Phoenix,Coffee Table,Home & Garden,2785.3,Bronze
+100028,Phoenix Garcia,bshjkjb@bsghl.com,19,Male,Phoenix,Yoga Mat,Sports,716.27,Silver
+100034,Jordan Brown,pgqvnah@ubeqa.com,68,Non-binary,Sydney,Laptop,Electronics,637.23,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Camera,Electronics,4533.75,Platinum
+100022,Tatum Brown,evdqevo@hzvzl.com,59,Male,New York,Sofa,Home & Garden,1996.84,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Coffee Table,Home & Garden,785.0,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Fitness Tracker,Sports,3703.17,Bronze
+100047,Brook Williams,kegrgrl@dshkl.com,22,Non-binary,Sydney,Dress,Fashion,3907.32,Bronze
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Coffee Table,Home & Garden,1457.65,Platinum
+100026,Jordan Johnson,fshekwz@bnkfl.com,62,,Toronto,Hair Dryer,Beauty & Health,2391.14,Gold
+100006,Peyton Johnson,xbyxiwj@cgonu.com,36,Female,Sydney,Headphones,Electronics,1003.21,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Dress,Fashion,3478.47,Bronze
+100024,Kris Martinez,birmcum@nuwmy.com,64,Non-binary,Houston,Dumbbells,Sports,381.08,Platinum
+100015,Casey Martinez,fzszqzx@jyyeo.com,47,Non-binary,New York,Toothbrush,Beauty & Health,3349.08,Silver
+100031,Reese Miller,wnniqsj@wwpfm.com,33,Male,Berlin,Hair Dryer,Beauty & Health,576.5,Bronze
+100009,Shawn Garcia,excvaxp@zduur.com,26,Female,Houston,Cookware,Home & Garden,4160.36,Bronze
+100045,Reese Davis,stkyqtd@yygjv.com,71,Female,Los Angeles,Headphones,Electronics,4016.58,Gold
+100002,Drew Williams,xkhoqzs@cnkyd.com,55,,Sydney,Toothbrush,Beauty & Health,76.49,Gold
+100049,Terry Davis,pyrgcho@bjtgp.com,65,Female,Berlin,T-shirt,Fashion,403.73,Gold
+100005,Dani Davis,whcnhyq@wjcfo.com,74,Male,New York,Cookware,Home & Garden,4231.17,Platinum
+100008,Jules Garcia,kxrbftw@tpyfk.com,45,Male,Los Angeles,Running Shoes,Sports,4656.19,Gold
+100019,Reese Johnson,ofsneor@unukw.com,44,Female,Los Angeles,Smartphone,Electronics,4375.09,Platinum
+100030,Cory Williams,lzboqoe@xfpfw.com,46,Non-binary,Los Angeles,Smartwatch,Electronics,1293.48,Platinum
+100007,Quinn Davis,ychqyvt@cegyt.com,22,Female,Berlin,Tablet,Electronics,2398.26,Platinum
+100100,Quinn Davis,ychqyvt@cegyt.com,22,Female,Delhi,Tablet,Electronics,2398.26,Platinum
+100101,Quinn Davis,ychqyvt@cegyt.com,22,Male,Istambul,Tablet,Electronics,2398.26,Platinum
