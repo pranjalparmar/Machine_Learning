@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Configure Gemini API
-GOOGLE_API_KEY = 'AIzaSyCTwUbbsI_bvYNQwS9iBrf-sC75VCerl50'  # Replace with your actual Gemini API key
+GOOGLE_API_KEY = 'YOUR GEMINI API KEY'  # Replace with your actual Gemini API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Email configuration
@@ -17,7 +17,7 @@ EMAIL_PASSWORD = "your-app-specific-password"  # Replace with your password
 
 # Database connection function
 def get_database_connection():
-    password = quote_plus('Pranjal@4177')
+    password = quote_plus('YOUR DATABASE PASSWORD')
     engine = create_engine(f'postgresql+pg8000://postgres:{password}@localhost:5432/sales_db')
     return engine
 
